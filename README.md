@@ -19,7 +19,7 @@ Define how data should be in pure, canonical Python 3.7+; validate it with Pydan
 We've started a company based on the principles that I believe have led to Pydantic's success.
 Learning more from the [Company Announcement](https://pydantic.dev/announcement/).
 
-## Pydantic V1.10 vs. V2
+## Pydantic V1.10 vs. V2...
 
 Pydantic V2 is a ground-up rewrite that offers many new features, performance improvements, and some breaking changes compared to Pydantic V1.
 
